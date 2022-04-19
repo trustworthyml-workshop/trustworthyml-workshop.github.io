@@ -9,7 +9,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 #### Assistance Professor, Northeastern University, USA.
 David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft.
 
-### <a href="#" target="_blank">Adrian Baldwin</a>
+### <a href="https://www.linkedin.com/in/adrian-baldwin-2a97065" target="_blank">Adrian Baldwin</a>
 #### Senior Researcher, HP Labs, United Kingdom 
 Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Over the years, he has worked on and published in a range of security areas, including security analytics and using ML for security, modeling systems to understand security trade-offs, automating audits, and securing audit logs. He has a Ph.D. in neural networks and natural language understanding from Exeter University.
 
