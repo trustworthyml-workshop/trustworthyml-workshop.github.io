@@ -23,8 +23,10 @@ Jay Nandy is currently working as a visiting researcher at Google Research, Indi
 ## Workshop Details
 The workshop will be fully virtual, conducted via zoom and will comprise a series of invited talks by international experts from the respective fields followed by a panel discussion.  The duration of the workshop will be five hours. The tentative schedule of the workshop is given below. All times are in the Indian Standard Time (IST) zone.
 
-| Fri 9.00 a.m. - 9.10 a.m. | Welcome (Opening) | Sandareka Wickramanayake |
+
+| Time | Item | Speaker/s |
 | ------------------------- | ----------------- | ------------------------ |
+| Fri 9.00 a.m. - 9.10 a.m. | Welcome (Opening) | Sandareka Wickramanayake |
 | Fri 9.10 a.m. - 9.50 a.m. | Interpretable Machine Learning |  David Bau |
 | Fri 9.50 a.m. - 10.30 a.m.| Machine Learning Risk Management Frameworks | Adrian Baldwin |
 | Fri 10.30 a.m. - 11.10 a.m.| Robustness and Uncertainty Estimation for Deep Neural Networks | Jay Nandy |
