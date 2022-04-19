@@ -37,18 +37,18 @@ Jay Nandy is currently working as a visiting researcher at Google Research, Indi
 The workshop will be fully virtual, conducted via zoom and will comprise a series of invited talks by international experts from the respective fields followed by a panel discussion.  The duration of the workshop will be five hours. The tentative schedule of the workshop is given below. All times are in the Indian Standard Time (IST) zone.
 
 
-| Time | Item | Speaker/s |
+| Time &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Item | Speaker/s |
 | ------------------------- | ----------------- | ------------------------ |
-| Fri 9.00 a.m. - 9.10 a.m. | Welcome (Opening) | Sandareka Wickramanayake |
-| Fri 9.10 a.m. - 9.50 a.m. | Interpretable Machine Learning |  David Bau |
-| Fri 9.50 a.m. - 10.30 a.m.| Machine Learning Risk Management Frameworks | Adrian Baldwin |
-| Fri 10.30 a.m. - 11.10 a.m.| Robustness and Uncertainty Estimation for Deep Neural Networks | Jay Nandy |
-| Fri 11.10 a.m. - 11.20 a.m | Break | - |
-| Fri 11.20 a.m. - 12.00 p.m | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
-| Fri 12.00 p.m. - 12.40 p.m.| Trustworthy ML for Healthcare | Gilbert Lim | 
-| Fri 12.40 p.m. - 12.50 p.m.| Break | - |
-| Fri 12.50 p.m. - 1.50 p.m. | Panel Discussion | Dileepa Fernando, David Bau, Adrian Baldwin, Jay Nandy, Ransalu Senanayake, Gilbert Lim |
-| Fri 1.50 p.m. - 2.00 p.m | Closing Remarks (Closing) | Dileepa Fernando |
+| 9.00 am - 9.10 am | Welcome (Opening) | Sandareka Wickramanayake |
+| 9.10 am - 9.50 am | Interpretable Machine Learning |  David Bau |
+| 9.50 am - 10.30 am| Machine Learning Risk Management Frameworks | Adrian Baldwin |
+| 10.30 am - 11.10 am| Robustness and Uncertainty Estimation for Deep Neural Networks | Jay Nandy |
+| 11.10 am - 11.20 am | Break | - |
+| 11.20 am - 12.00 pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
+| 12.00 pm - 12.40 pm| Trustworthy ML for Healthcare | Gilbert Lim | 
+| 12.40 pm - 12.50 pm| Break | - |
+| 12.50 pm - 1.50 pm | Panel Discussion | Dileepa Fernando, David Bau, Adrian Baldwin, Jay Nandy, Ransalu Senanayake, Gilbert Lim |
+| 1.50 pm - 2.00 pm | Closing Remarks (Closing) | Dileepa Fernando |
 
 
 # Register
