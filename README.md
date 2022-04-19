@@ -70,7 +70,7 @@ Singapore.
 dileepa.fernando@ntu.edu.sg
 
 ## Program Committee Members
-#### Sanka Rasnayaka
+#### <a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a>
 
 - Lecturer, 
 School of Computing,
