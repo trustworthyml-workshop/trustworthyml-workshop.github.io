@@ -42,7 +42,7 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 | 9.00 am - 9.10 am | Welcome (Opening) | Sandareka Wickramanayake |
 | 9.10 am - 9.50 am | Interpretable Machine Learning |  David Bau |
 | 9.50 am - 10.30 am| Machine Learning Risk Management Frameworks | Adrian Baldwin |
-| 10.30 am - 11.10 am| Robustness and Uncertainty Estimation <br \> for Deep Neural Networks | Jay Nandy |
+| 10.30 am - 11.10 am| Robustness and Uncertainty Estimation <br /> for Deep Neural Networks | Jay Nandy |
 | 11.10 am - 11.20 am | Break | - |
 | 11.20 am - 12.00 pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
 | 12.00 pm - 12.40 pm| Trustworthy ML for Healthcare | Gilbert Lim | 
