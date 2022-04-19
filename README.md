@@ -39,16 +39,16 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 
 | Time | Item | Speaker/s |
 | ------------------------- | ----------------- | ------------------------ |
-| 9.00am - 9.10am | Welcome (Opening) | Sandareka Wickramanayake |
-| 9.10am - 9.50am | Interpretable Machine Learning |  David Bau |
-| 9.50am - 10.30am| Machine Learning Risk Management Frameworks | Adrian Baldwin |
-| 10.30am - 11.10am| Robustness and Uncertainty Estimation <br /> for Deep Neural Networks | Jay Nandy |
-| 11.10am - 11.20am | Break | - |
-| 11.20am - 12.00pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
-| 12.00pm - 12.40pm| Trustworthy ML for Healthcare | Gilbert Lim | 
-| 12.40pm - 12.50pm| Break | - |
-| 12.50pm - 1.50pm | Panel Discussion | Dileepa Fernando, David Bau, <br /> Adrian Baldwin, Jay Nandy, <br />Ransalu Senanayake, Gilbert Lim |
-| 1.50pm - 2.00pm | Closing Remarks (Closing) | Dileepa Fernando |
+| 9.00am-9.10am | Welcome (Opening) | Sandareka Wickramanayake |
+| 9.10am-9.50am | Interpretable Machine Learning |  David Bau |
+| 9.50am-10.30am| Machine Learning Risk Management Frameworks | Adrian Baldwin |
+| 10.30am-11.10am| Robustness and Uncertainty Estimation <br /> for Deep Neural Networks | Jay Nandy |
+| 11.10am-11.20am | Break | - |
+| 11.20am-12.00pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
+| 12.00pm-12.40pm| Trustworthy ML for Healthcare | Gilbert Lim | 
+| 12.40pm-12.50pm| Break | - |
+| 12.50pm-1.50pm | Panel Discussion | Dileepa Fernando, David Bau, <br /> Adrian Baldwin, Jay Nandy, <br />Ransalu Senanayake, Gilbert Lim |
+| 1.50pm-2.00pm | Closing Remarks (Closing) | Dileepa Fernando |
 
 
 # Register
