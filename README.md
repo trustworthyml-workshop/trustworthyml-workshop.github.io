@@ -50,6 +50,7 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 | 11.20am-12.00pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
 | 12.00pm-12.40pm| Trustworthy ML for Healthcare | Gilbert Lim | 
 | 12.40pm-12.50pm| Break | - |
+| 12.50pm-1.50pm | Panel Discussion | Dileepa Fernando, TBD |
 | 1.50pm-2.00pm | Closing Remarks (Closing) | Dileepa Fernando |
 
 
