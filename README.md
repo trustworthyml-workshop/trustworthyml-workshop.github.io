@@ -25,7 +25,7 @@ Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Ov
  Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021.
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/SingHealth_Logo.png"> 
-## <a href="https://www.linkedin.com/in/gilbertlim/" target="_blank">Gilber Lim</a>
+## <a href="https://www.linkedin.com/in/gilbertlim/" target="_blank">Gilbert Lim</a>
 **AI Scientist, SingHealth, Singapore**
 
 Gilbert is currently an AI Scientist with SingHealth and holds research appointments at the SingHealth Duke-NUS Ophthalmology & Visual Sciences Academic Clinical Programme and Singapore Eye Research Institute. His past research involved the application of machine learning to healthcare, most prominently in ophthalmology, and has been published in journals such as JAMA, The Lancet Digital Health, and npj Digital Medicine. He obtained his doctorate in computer science from the National University of Singapore in 2016.
