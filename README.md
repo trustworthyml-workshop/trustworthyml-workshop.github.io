@@ -48,7 +48,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 <table>
   <tr>
-    <td width="30%"><img align="left" width="320px" src="assets/img/ppphoto.jpg" style="border-radius: 50%" /></td>
+    <td width="30%"><img align="left" width="320px" src="assets/img/gilb.png" style="border-radius: 50%" /></td>
     <td>  Gilbert is currently an AI Scientist with SingHealth and holds research appointments at the SingHealth Duke-NUS Ophthalmology & Visual Sciences Academic Clinical Programme and Singapore Eye Research Institute. His past research involved the application of machine learning to healthcare, most prominently in ophthalmology, and has been published in journals such as JAMA, The Lancet Digital Health, and npj Digital Medicine. He obtained his doctorate in computer science from the National University of Singapore in 2016.</td>
   </tr>
 </table>
