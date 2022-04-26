@@ -6,26 +6,6 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 # Invited Speakers
 
-<table>
-  <tr>
-    <td><img align="left" width="320px" src="assets/img/1562907566289.jpeg" style="border-radius: 50%" /></td>
-    <td>Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021.</td>
-  </tr>
-</table>
-
-
-
-
-![](assets/img/1562907566289.jpeg)  |  Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021. |
-:-------------------------:|:-------------------------:
-
-
-
-| <img align="left" width="320px" src="assets/img/1562907566289.jpeg" style="border-radius: 50%" /> | Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021.  |
-| ----- | ----- |
-
-
-
  <img align="right" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png">
 ## <a href="https://baulab.info/" target="_blank">David Bau</a> 
  **Assistance Professor, Northeastern University, USA.** 
@@ -57,14 +37,26 @@ Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Ov
   </div>
 </div>
 
-<img align="left" width="320px" src="assets/img/1562907566289.jpeg" style="border-radius: 50%" /> Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021. 
-<br>
+<table>
+  <tr>
+    <td width="30%"><img align="left" width="320px" src="assets/img/1562907566289.jpeg" style="border-radius: 50%" /></td>
+    <td>Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021.</td>
+  </tr>
+</table>
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/SingHealth_Logo.png"> 
 ## <a href="https://www.linkedin.com/in/gilbertlim/" target="_blank">Gilber Lim</a>
 **AI Scientist, SingHealth, Singapore**
 
-<img align="left" width="320px" src="assets/img/ppphoto.jpg" style="border-radius: 50%" />  Gilbert is currently an AI Scientist with SingHealth and holds research appointments at the SingHealth Duke-NUS Ophthalmology & Visual Sciences Academic Clinical Programme and Singapore Eye Research Institute. His past research involved the application of machine learning to healthcare, most prominently in ophthalmology, and has been published in journals such as JAMA, The Lancet Digital Health, and npj Digital Medicine. He obtained his doctorate in computer science from the National University of Singapore in 2016. 
+<table>
+  <tr>
+    <td width="30%"><img align="left" width="320px" src="assets/img/ppphoto.jpg" style="border-radius: 50%" /></td>
+    <td>  Gilbert is currently an AI Scientist with SingHealth and holds research appointments at the SingHealth Duke-NUS Ophthalmology & Visual Sciences Academic Clinical Programme and Singapore Eye Research Institute. His past research involved the application of machine learning to healthcare, most prominently in ophthalmology, and has been published in journals such as JAMA, The Lancet Digital Health, and npj Digital Medicine. He obtained his doctorate in computer science from the National University of Singapore in 2016. .</td>
+  </tr>
+</table>
+
+
+
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/Google_2015_logo.svg.webp"> 
 ## <a href="https://www.linkedin.com/in/jayjaynandy/?originalSubdomain=in" target="_blank">Jay Nandy</a>
