@@ -43,7 +43,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 </table>
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/SingHealth_Logo.png"> 
-## <a href="https://www.linkedin.com/in/gilbertlim/" target="_blank">Gilber Lim</a>
+## <a href="https://www.linkedin.com/in/gilbertlim/" target="_blank">Gilbert Lim</a>
 **AI Scientist, SingHealth, Singapore**
 
 <table>
