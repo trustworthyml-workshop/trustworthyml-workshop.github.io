@@ -97,7 +97,7 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
    <td align="center"> <img width="240px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
   </tr>
   <tr>
-    <td> <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>(Primary contact)  </td>
+    <td> <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> (Primary contact)  </td>
    <td> Dileepa Fernando </td>
   </tr>
    <tr>
