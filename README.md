@@ -23,20 +23,6 @@ Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Ov
 ## <a href="https://www.ransalu.com/" target="_blank">Ransalu Senanayake</a>
 **Postdoctoral Researcher, Stanford University, USA**
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      One of three columns
-    </div>
-    <div class="col-sm">
-      One of three columns
-    </div>
-    <div class="col-sm">
-      One of three columns
-    </div>
-  </div>
-</div>
-
 <table>
   <tr>
     <td width="30%"><img align="left" width="320px" src="assets/img/1562907566289.jpeg" style="border-radius: 50%" /></td>
@@ -48,7 +34,7 @@ Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Ov
 ## <a href="https://www.linkedin.com/in/gilbertlim/" target="_blank">Gilber Lim</a>
 **AI Scientist, SingHealth, Singapore**
 
-<table>
+<table style="border:none; border-collapse:collapse;">
   <tr>
     <td width="30%"><img align="left" width="320px" src="assets/img/ppphoto.jpg" style="border-radius: 50%" /></td>
     <td>  Gilbert is currently an AI Scientist with SingHealth and holds research appointments at the SingHealth Duke-NUS Ophthalmology & Visual Sciences Academic Clinical Programme and Singapore Eye Research Institute. His past research involved the application of machine learning to healthcare, most prominently in ophthalmology, and has been published in journals such as JAMA, The Lancet Digital Health, and npj Digital Medicine. He obtained his doctorate in computer science from the National University of Singapore in 2016. .</td>
