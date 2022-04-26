@@ -22,9 +22,9 @@ Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Ov
 ## <a href="https://www.ransalu.com/" target="_blank">Ransalu Senanayake</a>
 **Postdoctoral Researcher, Stanford University, USA**
 
-<kbd>
-<img src="assets/img/1562907566289.jpeg" class="circle-wrapper" />
-</kbd>
+
+<img src="assets/img/1562907566289.jpeg" style="border-radius: 50%" />
+
 
  Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021.
 
