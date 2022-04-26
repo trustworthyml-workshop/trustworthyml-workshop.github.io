@@ -6,6 +6,15 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 # Invited Speakers
 
+<table>
+  <tr>
+    <td><img align="left" width="320px" src="assets/img/1562907566289.jpeg" style="border-radius: 50%" /></td>
+    <td>Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021.</td>
+  </tr>
+</table>
+
+
+
 
 ![](assets/img/1562907566289.jpeg)  |  Ransalu Senanayake is a postdoctoral research scholar in the Machine Learning Group at the Department of Computer Science, Stanford University. Working at the intersection of modeling and decision-making, he focuses on making autonomous systems equipped with ML algorithms trustworthy. Prior to joining Stanford, Ransalu obtained a Ph.D. in Computer Science from the University of Sydney in 2019. He has been an Associate Editor for the IEEE International Conference on Intelligent Robots and Systems (IROS) since 2021. |
 :-------------------------:|:-------------------------:
