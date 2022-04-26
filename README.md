@@ -10,7 +10,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 ## <a href="https://baulab.info/" target="_blank">David Bau</a> 
  **Assistance Professor, Northeastern University, USA.** 
 
-| | David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft. |
+|t | David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft. |
 |---|---|
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/labs-logo.png">
@@ -38,7 +38,7 @@ Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Ov
 ## <a href="https://www.linkedin.com/in/jayjaynandy/?originalSubdomain=in" target="_blank">Jay Nandy</a>
 **Postdoctoral Research, Google India, India**
 
-| |Jay Nandy is currently working as a visiting researcher at Google Research, India. He completed his Ph.D. from the School of Computing, the National University of Singapore, in 2021. Before joining Google, he also worked as a research assistant at NUS. His research interests include robustness for Deep Learning models, predictive uncertainty estimation, unsupervised and weakly supervised learning, etc. He has published in premier AI conferences.|
+|t |Jay Nandy is currently working as a visiting researcher at Google Research, India. He completed his Ph.D. from the School of Computing, the National University of Singapore, in 2021. Before joining Google, he also worked as a research assistant at NUS. His research interests include robustness for Deep Learning models, predictive uncertainty estimation, unsupervised and weakly supervised learning, etc. He has published in premier AI conferences.|
 | --- | --- |
 
 # Workshop Details
