@@ -94,8 +94,8 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 
 <table>
    <tr>
-    <td align="center"> <img width="240px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
-   <td align="center"> <img width="240px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
+    <td align="center"> <img width="200px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
+   <td align="center"> <img width="200px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
   </tr>
   <tr>
     <td>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> (Primary contact)  </td>
