@@ -93,11 +93,11 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 
 <table>
    <tr>
-    <td> <img align="center" width="280px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
-   <td> <img align="center" width="280px" src="assets/img/Photo-for-workshop.jpeg" style="border-radius: 50%" /> </td>
+    <td align="center"> <img width="240px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
+   <td align="center"> <img width="240px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
   </tr>
   <tr>
-    <td> <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>  </td>
+    <td> <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>(Primary contact)  </td>
    <td> Dileepa Fernando </td>
   </tr>
    <tr>
@@ -113,13 +113,6 @@ Singapore.
 dileepa.fernando@ntu.edu.sg </td>
   </tr>
 </table>
-
-
-### <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> (Primary contact)
-
-
-
-### Dileepa Fernando
 
 
 # Program Committee Members
