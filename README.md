@@ -60,6 +60,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 <table>
   <tr>
+    <td width="30%"><img align="left" width="320px" src="assets/img/jay.jpeg" style="border-radius: 50%" /></td>
     <td>  Jay Nandy is currently working as a visiting researcher at Google Research, India. He completed his Ph.D. from the School of Computing, the National University of Singapore, in 2021. Before joining Google, he also worked as a research assistant at NUS. His research interests include robustness for Deep Learning models, predictive uncertainty estimation, unsupervised and weakly supervised learning, etc. He has published in premier AI conferences.
 </td>
   </tr>
@@ -97,8 +98,8 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
    <td align="center"> <img width="240px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
   </tr>
   <tr>
-    <td> <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> (Primary contact)  </td>
-   <td> Dileepa Fernando </td>
+    <td> <h2> <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> </h2>  (Primary contact)  </td>
+   <td> <h2> Dileepa Fernando </h2> </td>
   </tr>
    <tr>
     <td> - Lecturer, 
