@@ -10,14 +10,26 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 ## <a href="https://baulab.info/" target="_blank">David Bau</a> 
  **Assistance Professor, Northeastern University, USA.** 
 
-David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft.
+<table>
+  <tr>
+    <td>David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft.</td>
+  </tr>
+</table>
 
-<br>
+
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/labs-logo.png">
 ## <a href="https://www.linkedin.com/in/adrian-baldwin-2a97065" target="_blank">Adrian Baldwin</a>
 **Senior Researcher, HP Labs, United Kingdom** 
 
-Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Over the years, he has worked on and published in a range of security areas, including security analytics and using ML for security, modeling systems to understand security trade-offs, automating audits, and securing audit logs. He has a Ph.D. in neural networks and natural language understanding from Exeter University.
+
+<table>
+  <tr>
+    <td>  Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Over the years, he has worked on and published in a range of security areas, including security analytics and using ML for security, modeling systems to understand security trade-offs, automating audits, and securing audit logs. He has a Ph.D. in neural networks and natural language understanding from Exeter University.</td>
+  </tr>
+</table>
+
+
+
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/2d3aeb9af414fa85725d1f6521701f22.png">
 ## <a href="https://www.ransalu.com/" target="_blank">Ransalu Senanayake</a>
@@ -34,21 +46,25 @@ Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Ov
 ## <a href="https://www.linkedin.com/in/gilbertlim/" target="_blank">Gilber Lim</a>
 **AI Scientist, SingHealth, Singapore**
 
-<table bordercolor="#ffffff">
+<table>
   <tr>
     <td width="30%"><img align="left" width="320px" src="assets/img/ppphoto.jpg" style="border-radius: 50%" /></td>
-    <td>  Gilbert is currently an AI Scientist with SingHealth and holds research appointments at the SingHealth Duke-NUS Ophthalmology & Visual Sciences Academic Clinical Programme and Singapore Eye Research Institute. His past research involved the application of machine learning to healthcare, most prominently in ophthalmology, and has been published in journals such as JAMA, The Lancet Digital Health, and npj Digital Medicine. He obtained his doctorate in computer science from the National University of Singapore in 2016. .</td>
+    <td>  Gilbert is currently an AI Scientist with SingHealth and holds research appointments at the SingHealth Duke-NUS Ophthalmology & Visual Sciences Academic Clinical Programme and Singapore Eye Research Institute. His past research involved the application of machine learning to healthcare, most prominently in ophthalmology, and has been published in journals such as JAMA, The Lancet Digital Health, and npj Digital Medicine. He obtained his doctorate in computer science from the National University of Singapore in 2016.</td>
   </tr>
 </table>
-
-
 
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/Google_2015_logo.svg.webp"> 
 ## <a href="https://www.linkedin.com/in/jayjaynandy/?originalSubdomain=in" target="_blank">Jay Nandy</a>
 **Postdoctoral Research, Google India, India**
 
-Jay Nandy is currently working as a visiting researcher at Google Research, India. He completed his Ph.D. from the School of Computing, the National University of Singapore, in 2021. Before joining Google, he also worked as a research assistant at NUS. His research interests include robustness for Deep Learning models, predictive uncertainty estimation, unsupervised and weakly supervised learning, etc. He has published in premier AI conferences.
+<table>
+  <tr>
+    <td>  Jay Nandy is currently working as a visiting researcher at Google Research, India. He completed his Ph.D. from the School of Computing, the National University of Singapore, in 2021. Before joining Google, he also worked as a research assistant at NUS. His research interests include robustness for Deep Learning models, predictive uncertainty estimation, unsupervised and weakly supervised learning, etc. He has published in premier AI conferences.
+</td>
+  </tr>
+</table>
+
 
 # Workshop Details
 The workshop will be fully virtual, conducted via zoom and will comprise a series of invited talks by international experts from the respective fields followed by a panel discussion.  The duration of the workshop will be five hours. The tentative schedule of the workshop is given below. All times are in the Indian Standard Time (IST) zone.
@@ -74,20 +90,37 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 
 # Organizers
 
-### <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> (Primary contact)
 
-- Lecturer, 
+<table>
+   <tr>
+    <td> <img align="center" width="280px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
+   <td> <img align="center" width="280px" src="assets/img/Photo-for-workshop.jpeg" style="border-radius: 50%" /> </td>
+  </tr>
+  <tr>
+    <td> <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>  </td>
+   <td> Dileepa Fernando </td>
+  </tr>
+   <tr>
+    <td> - Lecturer, 
 Department of Computer Science and Engineering,
 University of Moratuwa
-sandarekaw@cse.mrt.ac.lk
-
-### Dileepa Fernando
-
+sandarekaw@cse.mrt.ac.lk </td>
+   <td> 
 - Graduate Research Fellow,
 HP-NTU Corporate Lab,
 Nanyang Technological University,
 Singapore.
-dileepa.fernando@ntu.edu.sg
+dileepa.fernando@ntu.edu.sg </td>
+  </tr>
+</table>
+
+
+### <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> (Primary contact)
+
+
+
+### Dileepa Fernando
+
 
 # Program Committee Members
 ### <a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a>
