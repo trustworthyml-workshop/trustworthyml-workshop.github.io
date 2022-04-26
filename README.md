@@ -22,6 +22,10 @@ Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Ov
 ## <a href="https://www.ransalu.com/" target="_blank">Ransalu Senanayake</a>
 **Postdoctoral Researcher, Stanford University, USA**
 
+<div class="row">
+  <div class="column">1</div>
+  <div class="column">2</div>
+</div>
 
 <img src="assets/img/1562907566289.jpeg" style="border-radius: 50%" />
 
