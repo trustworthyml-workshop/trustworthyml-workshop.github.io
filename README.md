@@ -117,14 +117,14 @@ dileepa.fernando@ntu.edu.sg </td>
 
 
 # Program Committee Members
-### <a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a>
+<a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a>
 
 - Lecturer, 
 School of Computing,
 National University of Singapore
 sanka@nus.edu.sg
 
-### Ashraf Abdul
+Ashraf Abdul
 
 - Ph.D. Candidate,
 School of Computing,
