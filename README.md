@@ -56,7 +56,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/Google_2015_logo.svg.webp"> 
 ## <a href="https://www.linkedin.com/in/jayjaynandy/?originalSubdomain=in" target="_blank">Jay Nandy</a>
-**Postdoctoral Research, Google India, India**
+**Postdoctoral Researcher, Google India, India**
 
 <table>
   <tr>
