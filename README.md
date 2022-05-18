@@ -12,6 +12,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 <table>
   <tr>
+   <td width="30%"><img align="left" width="320px" src="assets/img/David-Bau-2.jpg" style="border-radius: 50%" /></td>
     <td>David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft.</td>
   </tr>
 </table>
