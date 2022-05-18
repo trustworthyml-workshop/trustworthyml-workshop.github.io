@@ -12,6 +12,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 <table>
   <tr>
+   <td width="30%"><img align="left" width="320px" src="assets/img/David-Bau-2.jpg" style="border-radius: 50%" /></td>
     <td>David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft.</td>
   </tr>
 </table>
@@ -99,7 +100,7 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
   </tr>
   <tr>
     <td>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> (Primary contact)  </td>
-   <td>  Dileepa Fernando </td>
+   <td>  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td> 
   </tr>
    <tr>
     <td> - Lecturer, 
@@ -117,14 +118,14 @@ dileepa.fernando@ntu.edu.sg </td>
 
 
 # Program Committee Members
-### <a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a>
+<a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a>
 
 - Lecturer, 
 School of Computing,
 National University of Singapore
 sanka@nus.edu.sg
 
-### Ashraf Abdul
+Ashraf Abdul
 
 - Ph.D. Candidate,
 School of Computing,
