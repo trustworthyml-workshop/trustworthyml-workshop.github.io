@@ -77,7 +77,7 @@ All times are in the Indian Standard Time (IST) zone. \
 
 | Time         | Session | Speaker/s |
 | ------------------ | ----------------- | ------------------------ |
-|<img width=100/>|<img width=500/>|<img width=300/>|
+|<img width=200/>|<img width=400/>|<img width=300/>|
 | 9.00 - 9.10am | Welcome (Opening) | Sandareka Wickramanayake |
 | 9.10 - 9.50am | Interpretable Machine Learning |  David Bau |
 | 9.50 - 10.30am| Machine Learning Risk Management Frameworks | Adrian Baldwin |
