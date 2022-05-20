@@ -8,7 +8,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 # Invited Speakers
 
- <img align="right" alt="https://baulab.info/" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png">
+ <a href="https://baulab.info/" target="_blank"><img align="right" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png"></a>
 ## <a href="https://baulab.info/" target="_blank">David Bau</a> 
  **Assistance Professor, Northeastern University, USA.** 
 
