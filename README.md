@@ -2,7 +2,8 @@
 # Overview
 Despite the remarkable performance and many applications, Machine Learning systems may have many pitfalls. For example, Deep Neural Networks (DNNs) can be fooled into malfunction by simply applying a small perturbation to the data, indicating that these techniques are not robust. Further, incidents have been reported where the ML decisions were unfair and hurt people in the minority or historically disadvantaged groups. Troubleshooting such issues with some of the best performing ML systems (e.g., DNNs) is also not possible due to their black-box nature. In other words, they are not human interpretable. Furthermore, unlike standard software systems, the validity of operations of an ML system cannot be formally verified against a user specification. To address these issues, the ML community has extensively researched techniques to make ML systems trustworthy because when deployed in the real world, human lives may depend on these systems. The umbrella covering interpretability, robustness, fairness, and verifiability of ML systems is commonly referred to as trustworthy ML. 
 
-This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward. The workshop will be held virtually on 29th July 2022. 
+This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward. 
+**The workshop will be held virtually on 29th July 2022** 
 
 # Invited Speakers
 
@@ -68,11 +69,12 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 </table>
 
 
-# Workshop Details
-The workshop will be fully virtual, conducted via zoom and will comprise a series of invited talks by international experts from the respective fields followed by a panel discussion.  The duration of the workshop will be five hours. The tentative schedule of the workshop is given below. All times are in the Indian Standard Time (IST) zone.
+# Workshop Schedule
+All times are in the Indian Standard Time (IST) zone.
+[^1] *The topics of invited talkes might be changed.*
 
 
-| Time         | Item | Speaker/s |
+| Time         | Session | Speaker/s |
 | -------------------------------- | ----------------- | ------------------------ |
 | 9.00 - 9.10am | Welcome (Opening) | Sandareka Wickramanayake |
 | 9.10 - 9.50am | Interpretable Machine Learning |  David Bau |
