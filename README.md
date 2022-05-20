@@ -115,18 +115,8 @@ National University of Singapore </td>
 </table>
 
 
-# Program Committee Members
-<a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a>
+# Program Committee
 
-- Lecturer, 
-School of Computing,
-National University of Singapore
-sanka@nus.edu.sg
-
-Ashraf Abdul
-
-- Ph.D. Candidate,
-School of Computing,
-National University of Singapore
+Ashraf Abdul - National University of Singapore
 
 
