@@ -72,7 +72,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 The workshop will be fully virtual, conducted via zoom and will comprise a series of invited talks by international experts from the respective fields followed by a panel discussion.  The duration of the workshop will be five hours. The tentative schedule of the workshop is given below. All times are in the Indian Standard Time (IST) zone.
 
 
-| Time | Item | Speaker/s |
+| Time         | Item | Speaker/s |
 | ------------------------- | ----------------- | ------------------------ |
 | 9.00 - 9.10am | Welcome (Opening) | Sandareka Wickramanayake |
 | 9.10 - 9.50am | Interpretable Machine Learning |  David Bau |
@@ -95,8 +95,8 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 
 <table>
    <tr>
-    <td align="center"> <img width="200px" src="assets/img/Photo.jpg" style="border-radius: 30%" /></td>
-   <td align="center"> <img width="200px" src="assets/img/pap.jpeg" style="border-radius: 30%" /> </td>
+    <td align="center"> <img width="100px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
+   <td align="center"> <img width="100px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
   </tr>
   <tr>
     <td>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>   </td>
