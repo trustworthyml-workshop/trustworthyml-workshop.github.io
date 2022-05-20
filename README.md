@@ -81,7 +81,7 @@ All times are in the Indian Standard Time (IST) zone. \
 | 5.00 - 5.40 pm | TBD |  TBD |
 | 5.40 - 6.20 pm | Trustworthy ML for Healthcare | Gilbert Lim |
 | 6.20 - 6.30 pm | Break | - |
-| 6.30 - 7.10 pm| Robustness and Uncertainty Estimation for <br /> Deep Neural Networks | Jay Nandy |
+| 6.30 - 7.10 pm| Robustness and Uncertainty Estimation for Deep Neural Networks | Jay Nandy |
 | 7.10 - 7.50 pm| Interpretable Machine Learning |  David Bau |
 | 7.50 - 8.30 pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
 | 8.30 - 8.40 pm | Break | - |
