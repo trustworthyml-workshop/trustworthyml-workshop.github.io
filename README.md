@@ -4,11 +4,11 @@ Despite the remarkable performance and many applications, Machine Learning syste
 
 This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward.\
 
-**The workshop will be held virtually on 29th July 2022. REGISTRATION IS FREE**
+**The workshop will be held virtually on 29th July 2022.** <span style="color:blue"> **REGISTRATION IS FREE** </span>
 
 # Invited Speakers
 
- <img align="right" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png">
+ <img align="right" alt="https://baulab.info/" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png">
 ## <a href="https://baulab.info/" target="_blank">David Bau</a> 
  **Assistance Professor, Northeastern University, USA.** 
 
