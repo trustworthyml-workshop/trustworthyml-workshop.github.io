@@ -69,26 +69,24 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
   </tr>
 </table>
 
-
 # Workshop Schedule
 All times are in the Indian Standard Time (IST) zone. \
 *Topics of the invited talkes might be changed by the speaker*
 
-
 | Time         | Session | Speaker/s |
 | ------------------ | ----------------- | ------------------------ |
 |<img width=200/>|<img width=400/>|<img width=300/>|
-| 9.00 - 9.10am | Welcome (Opening) | Sandareka Wickramanayake |
-| 9.10 - 9.50am | Interpretable Machine Learning |  David Bau |
-| 9.50 - 10.30am| Machine Learning Risk Management Frameworks | Adrian Baldwin |
-| 10.30 - 11.10am| Robustness and Uncertainty Estimation <br /> for Deep Neural Networks | Jay Nandy |
-| 11.10 - 11.20am | Break | - |
-| 11.20 - 12.00pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
-| 12.00 - 12.40pm| Trustworthy ML for Healthcare | Gilbert Lim | 
-| 12.40 - 12.50pm| Break | - |
-| 12.50p - 1.50pm | Panel Discussion | Dileepa Fernando, TBD |
-| 1.50 - 2.00pm | Closing Remarks (Closing) | Dileepa Fernando |
-
+| 4.15 - 4.20 pm | Welcome (Opening) | Sandareka Wickramanayake |
+| 4.20 - 5.00 pm| Machine Learning Risk Management Frameworks | Adrian Baldwin |
+| 5.00 - 5.40 pm | TBD |  TBD |
+| 5.40 - 6.20 pm | Trustworthy ML for Healthcare | Gilbert Lim |
+| 6.20 - 6.30 pm | Break | - |
+| 6.30 - 7.10 pm| Robustness and Uncertainty Estimation <br /> for Deep Neural Networks | Jay Nandy |
+| 7.10 - 7.50 pm| Interpretable Machine Learning |  David Bau |
+| 7.50 - 8.30 pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
+| 8.30 - 8.40 pm | Break | - |
+| 8.40 - 9.50 pm | Panel Discussion | Moderator - Dileepa Fernando |
+| 9.50 - 10.00pm | Closing Remarks (Closing) | Dileepa Fernando |
 
 # Register
 
