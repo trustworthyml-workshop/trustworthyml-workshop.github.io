@@ -73,7 +73,7 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 
 
 | Time         | Item | Speaker/s |
-| ------------------------- | ----------------- | ------------------------ |
+| -------------------------------- | ----------------- | ------------------------ |
 | 9.00 - 9.10am | Welcome (Opening) | Sandareka Wickramanayake |
 | 9.10 - 9.50am | Interpretable Machine Learning |  David Bau |
 | 9.50 - 10.30am| Machine Learning Risk Management Frameworks | Adrian Baldwin |
@@ -95,12 +95,14 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 
 <table>
    <tr>
-    <td align="center"> <img width="100px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
-   <td align="center"> <img width="100px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
+    <td align="center"> <img width="150px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
+   <td align="center"> <img width="150px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
+    <td align="center"> <img width="150px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
   </tr>
   <tr>
-    <td>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>   </td>
-   <td>  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td> 
+    <td  text-align:center>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>   </td>
+   <td text-align: center >  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td>
+   <td text-align: center >  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td>
   </tr>
    <tr>
     <td> - Lecturer, 
