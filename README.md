@@ -115,6 +115,12 @@ HP-NTU Corporate Lab,
 Nanyang Technological University,
 Singapore.
 dileepa.fernando@ntu.edu.sg </td>
+<td> 
+- Graduate Research Fellow,
+HP-NTU Corporate Lab,
+Nanyang Technological University,
+Singapore.
+dileepa.fernando@ntu.edu.sg </td>
   </tr>
 </table>
 
