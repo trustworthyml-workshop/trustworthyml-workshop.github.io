@@ -70,7 +70,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 
 # Workshop Schedule
-All times are in the Indian Standard Time (IST) zone.
+All times are in the Indian Standard Time (IST) zone. //
 *The topics of invited talkes might be changed.*
 
 
