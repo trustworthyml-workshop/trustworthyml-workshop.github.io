@@ -97,30 +97,20 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
    <tr>
     <td align="center"> <img width="150px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
    <td align="center"> <img width="150px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
-    <td align="center"> <img width="150px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
+    <td align="center"> <img width="150px" src="assets/img/sanka.jpeg" style="border-radius: 50%" /> </td>
   </tr>
   <tr>
-    <td  text-align:center>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>   </td>
-   <td text-align: center >  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td>
-   <td text-align: center >  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td>
+    <td>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>   </td>
+   <td>  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td>
+   <td>  <a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a> </td>
   </tr>
    <tr>
-    <td> - Lecturer, 
-Department of Computer Science and Engineering,
-University of Moratuwa
-sandarekaw@cse.mrt.ac.lk </td>
+    <td> 
+University of Moratuwa </td>
    <td> 
-- Graduate Research Fellow,
-HP-NTU Corporate Lab,
-Nanyang Technological University,
-Singapore.
-dileepa.fernando@ntu.edu.sg </td>
+Nanyang Technological University </td>
 <td> 
-- Graduate Research Fellow,
-HP-NTU Corporate Lab,
-Nanyang Technological University,
-Singapore.
-dileepa.fernando@ntu.edu.sg </td>
+National University of Singapore </td>
   </tr>
 </table>
 
