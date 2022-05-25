@@ -2,11 +2,13 @@
 # Overview
 Despite the remarkable performance and many applications, Machine Learning systems may have many pitfalls. For example, Deep Neural Networks (DNNs) can be fooled into malfunction by simply applying a small perturbation to the data, indicating that these techniques are not robust. Further, incidents have been reported where the ML decisions were unfair and hurt people in the minority or historically disadvantaged groups. Troubleshooting such issues with some of the best performing ML systems (e.g., DNNs) is also not possible due to their black-box nature. In other words, they are not human interpretable. Furthermore, unlike standard software systems, the validity of operations of an ML system cannot be formally verified against a user specification. To address these issues, the ML community has extensively researched techniques to make ML systems trustworthy because when deployed in the real world, human lives may depend on these systems. The umbrella covering interpretability, robustness, fairness, and verifiability of ML systems is commonly referred to as trustworthy ML. 
 
-This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward. The workshop will be held virtually on 29th July 2022. 
+This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward.\
+
+**The workshop will be held virtually on 29th July 2022.** <span style="color:blue"> **REGISTRATION IS FREE** </span>
 
 # Invited Speakers
 
- <img align="right" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png">
+ <a href="https://baulab.info/" target="_blank"><img align="right" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png"></a>
 ## <a href="https://baulab.info/" target="_blank">David Bau</a> 
  **Assistance Professor, Northeastern University, USA.** 
 
@@ -67,24 +69,24 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
   </tr>
 </table>
 
+# Workshop Schedule
+All times are in the Indian Standard Time (IST) zone. \
+*Topics of the invited talkes might be changed by the speaker*
 
-# Workshop Details
-The workshop will be fully virtual, conducted via zoom and will comprise a series of invited talks by international experts from the respective fields followed by a panel discussion.  The duration of the workshop will be five hours. The tentative schedule of the workshop is given below. All times are in the Indian Standard Time (IST) zone.
-
-
-| Time | Item | Speaker/s |
-| ------------------------- | ----------------- | ------------------------ |
-| 9.00am-9.10am | Welcome (Opening) | Sandareka Wickramanayake |
-| 9.10am-9.50am | Interpretable Machine Learning |  David Bau |
-| 9.50am-10.30am| Machine Learning Risk Management Frameworks | Adrian Baldwin |
-| 10.30am-11.10am| Robustness and Uncertainty Estimation <br /> for Deep Neural Networks | Jay Nandy |
-| 11.10am-11.20am | Break | - |
-| 11.20am-12.00pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
-| 12.00pm-12.40pm| Trustworthy ML for Healthcare | Gilbert Lim | 
-| 12.40pm-12.50pm| Break | - |
-| 12.50pm-1.50pm | Panel Discussion | Dileepa Fernando, TBD |
-| 1.50pm-2.00pm | Closing Remarks (Closing) | Dileepa Fernando |
-
+| Time         | Session | Speaker/s |
+| ------------------ | ----------------- | ------------------------ |
+|<img width=175/>|<img width=425/>|<img width=300/>|
+| 4.15 - 4.20 pm | Welcome (Opening) | Sandareka Wickramanayake |
+| 4.20 - 5.00 pm| Machine Learning Risk Management Frameworks | Adrian Baldwin |
+| 5.00 - 5.40 pm | TBD |  TBD |
+| 5.40 - 6.20 pm | Trustworthy ML for Healthcare | Gilbert Lim |
+| 6.20 - 6.30 pm | Break | - |
+| 6.30 - 7.10 pm| Robustness and Uncertainty Estimation for Deep Neural Networks | Jay Nandy |
+| 7.10 - 7.50 pm| Interpretable Machine Learning |  David Bau |
+| 7.50 - 8.30 pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
+| 8.30 - 8.40 pm | Break | - |
+| 8.40 - 9.50 pm | Panel Discussion | Moderator - Dileepa Fernando |
+| 9.50 - 10.00pm | Closing Remarks (Closing) | Dileepa Fernando |
 
 # Register
 
@@ -92,43 +94,27 @@ The workshop will be fully virtual, conducted via zoom and will comprise a serie
 
 # Organizers
 
-
 <table>
    <tr>
-    <td align="center"> <img width="200px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
-   <td align="center"> <img width="200px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
+    <td align="center"> <img width="150px" src="assets/img/Photo.jpg" style="border-radius: 50%" /></td>
+    <td align="center"> <img width="150px" src="assets/img/pap.jpeg" style="border-radius: 50%" /> </td>
+    <td align="center"> <img width="150px" src="assets/img/sanka.jpeg" style="border-radius: 50%" /> </td>
   </tr>
   <tr>
-    <td>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a> (Primary contact)  </td>
-   <td>  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td> 
+    <td>  <a href="http://sandareka.github.io/" target="_blank">Sandareka Wickramanayake</a>   </td>
+    <td>  <a href="https://www.linkedin.com/in/fernandodileepa/" target="_blank">Dileepa Fernando</a> </td>
+    <td>  <a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a> </td>
   </tr>
    <tr>
-    <td> - Lecturer, 
-Department of Computer Science and Engineering,
-University of Moratuwa
-sandarekaw@cse.mrt.ac.lk </td>
-   <td> 
-- Graduate Research Fellow,
-HP-NTU Corporate Lab,
-Nanyang Technological University,
-Singapore.
-dileepa.fernando@ntu.edu.sg </td>
+   <td> University of Moratuwa </td>
+   <td> Nanyang Technological University </td>
+  <td> National University of Singapore </td>
   </tr>
 </table>
 
 
-# Program Committee Members
-<a href="https://comp.nus.edu.sg/~sanka" target="_blank">Sanka Rasnayaka</a>
+# Program Committee
 
-- Lecturer, 
-School of Computing,
-National University of Singapore
-sanka@nus.edu.sg
-
-Ashraf Abdul
-
-- Ph.D. Candidate,
-School of Computing,
-National University of Singapore
+Ashraf Abdul - National University of Singapore
 
 
