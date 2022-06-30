@@ -28,7 +28,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 <table>
   <tr>
-   <td width="30%"><img align="left" width="320px" src="assets/img/Adrian.jpg" style="border-radius: 50%" /></td>
+   <td width="30%"><img align="left" width="320px" src="assets/img/Adrian.jpeg" style="border-radius: 50%" /></td>
     <td>  Adrian Baldwin is a senior researcher in the Security Lab within HP Labs, UK. Over the years, he has worked on and published in a range of security areas, including security analytics and using ML for security, modeling systems to understand security trade-offs, automating audits, and securing audit logs. He has a Ph.D. in neural networks and natural language understanding from Exeter University.</td>
   </tr>
 </table>
