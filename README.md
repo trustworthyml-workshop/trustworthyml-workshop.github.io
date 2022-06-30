@@ -21,6 +21,8 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 
 <img align="right" width="120px" style="padding: 10px 10px 10px 10px" src="assets/img/labs-logo.png">
+
+<a href="https://baulab.info/" target="_blank"><img align="right" width="100px" style="padding: 10px 10px 10px 10px" src="assets/img/Northeastern_University_seal.svg.png"></a>
 ## <a href="https://www.linkedin.com/in/adrian-baldwin-2a97065" target="_blank">Adrian Baldwin</a>
 **Senior Researcher, HP Labs, United Kingdom** 
 
