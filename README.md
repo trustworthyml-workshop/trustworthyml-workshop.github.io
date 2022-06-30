@@ -2,7 +2,7 @@
 # Overview
 Despite the remarkable performance and many applications, Machine Learning systems may have many pitfalls. For example, Deep Neural Networks (DNNs) can be fooled into malfunction by simply applying a small perturbation to the data, indicating that these techniques are not robust. Further, incidents have been reported where the ML decisions were unfair and hurt people in the minority or historically disadvantaged groups. Troubleshooting such issues with some of the best performing ML systems (e.g., DNNs) is also not possible due to their black-box nature. In other words, they are not human interpretable. Furthermore, unlike standard software systems, the validity of operations of an ML system cannot be formally verified against a user specification. To address these issues, the ML community has extensively researched techniques to make ML systems trustworthy because when deployed in the real world, human lives may depend on these systems. The umbrella covering interpretability, robustness, fairness, and verifiability of ML systems is commonly referred to as trustworthy ML. 
 
-This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward.\
+This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward.
 
 **The workshop will be held virtually on 29th July 2022.** <span style="color:blue"> **REGISTRATION IS FREE** </span>
 
@@ -76,10 +76,10 @@ All times are in the Indian Standard Time zone (GMT +5:30 hours). \
 | Time         | Session | Speaker/s |
 | ------------------ | ----------------- | ------------------------ |
 |<img width=175/>|<img width=425/>|<img width=300/>|
-| 4.15 - 4.20 pm | Welcome (Opening) | Sandareka Wickramanayake |
+| 4.15 - 4.20 pm | Welcome (Opening) | Sanka Rasnayaka |
 | 4.20 - 5.00 pm| Machine Learning Risk Management Frameworks | Adrian Baldwin |
 | 5.00 - 5.40 pm | Trustworthy ML for Healthcare | Gilbert Lim |
-| 5.40 - 6.00 pm | TBD |  TBD |
+| 5.40 - 6.00 pm | Explainable AI for Smart City Applications |  Sandareka Wickramanayake |
 | 6.00 - 6.10 pm | Break | - |
 | 6.10 - 6.50 pm | Robustness and Uncertainty Estimation for Deep Neural Networks | Jay Nandy |
 | 6.50 - 7.30 pm | Interpretable Machine Learning |  David Bau |
