@@ -4,7 +4,7 @@ Despite the remarkable performance and many applications, Machine Learning syste
 
 This workshop aims to raise awareness of possible pitfalls of existing ML algorithms among many practitioners and users and emphasize the importance of developing trustworthy ML algorithms. To achieve this objective, the workshop will bring together international experts from ML interpretability, fairness, robustness, and verifiability to discuss the progress so far, issues, challenges, and the path forward.
 
-**The workshop will be held virtually on 29th July 2022.** <span style="color:blue"> **REGISTRATION IS FREE** </span>
+**The workshop will be held virtually on 29th July 2022.** <span style="color:blue"> <a href="https://docs.google.com/forms/d/1s61akOeFWVrJdtu0NTNhY6NmFRNmxfBsxd5OKyJ3I7s/viewform?edit_requested=true" target="_blank"> **REGISTRATION IS FREE** </a> </span>
 
 # Invited Speakers
 
