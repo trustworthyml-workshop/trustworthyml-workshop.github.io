@@ -15,7 +15,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 <table>
   <tr>
    <td width="30%"><img align="left" width="320px" src="assets/img/David-Bau-2.jpg" style="border-radius: 50%" /></td>
-    <td>David Bau is currently a postdoctoral fellow at Harvard University, and he will assume duty as an Assistant Professor at Northeastern University, the USA starting in fall 2022. David is a leading researcher in interpretable DNN methods whose Ph.D. dissertation is titled dissection of Deep Networks. His work attempts to understand the rich internal structure of DNNs. He has contributed to pioneer research in the interpretability community and published in many premier peer-reviewed conferences. Before starting his Ph.D., he worked for tech giants like Google and Microsoft.</td>
+    <td>David Bau is Assistant Professor at the Northeastern University Khoury College of Computer Science. He received his PhD from MIT and AB from Harvard, and he has previously worked at Google and Microsoft. He is known for his network dissection studies of individual neurons in deep networks and has published research on the interpretable structure of learned computations in large models in PNAS, CVPR, NeurIPS, and SIGGRAPH.  Prof. Bau is also coauthor of the textbook, Numerical Linear Algebra.</td>
   </tr>
 </table>
 
@@ -83,9 +83,9 @@ All times are in the Indian Standard Time zone (GMT +5:30 hours). \
 | 5.00 - 5.40 pm | Trustworthy ML for Healthcare | Gilbert Lim |
 | 5.40 - 6.00 pm | Explainable AI for Smart City Applications |  Sandareka Wickramanayake |
 | 6.00 - 6.10 pm | Break | - |
-| 6.10 - 6.50 pm | Robustness and Uncertainty Estimation for Deep Neural Networks | Jay Nandy |
-| 6.50 - 7.30 pm | Interpretable Machine Learning |  David Bau |
-| 7.30 - 8.10 pm | Safety and Robustness of Autonomous systems | Ransalu Senanayake |
+| 6.10 - 6.50 pm | Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | Jay Nandy |
+| 6.50 - 7.30 pm | Direct Model Editing |  David Bau |
+| 7.30 - 8.10 pm | How Do We Fail? Stress Testing Vision-based Systems Using Reinforcement Learning | Ransalu Senanayake |
 | 8.10 - 8.20 pm | Break | - |
 | 8.20 - 9.20 pm | Panel Discussion | Moderator - Dileepa Fernando |
 | 9.20 - 9.30pm | Closing Remarks (Closing) | Dileepa Fernando |
