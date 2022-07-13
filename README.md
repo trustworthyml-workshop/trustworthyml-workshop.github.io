@@ -65,7 +65,7 @@ This workshop aims to raise awareness of possible pitfalls of existing ML algori
 
 <table>
   <tr>
-    <td width="30%"><img align="left" width="220px" src="assets/img/jay.jpeg" style="border-radius: 50%" /></td>
+    <td width="30%"><img align="left" width="120px" src="assets/img/jay.jpeg" style="border-radius: 50%" /></td>
     <td>  Jay Nandy is currently working as a visiting researcher at Google Research, India. He completed his Ph.D. from the School of Computing, the National University of Singapore, in 2021. Before joining Google, he also worked as a research assistant at NUS. His research interests include robustness for Deep Learning models, predictive uncertainty estimation, unsupervised and weakly supervised learning, etc. He has published in premier AI conferences.
 </td>
   </tr>
