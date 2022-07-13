@@ -77,7 +77,7 @@ All times are in the Indian Standard Time zone (GMT +5:30 hours). \
 
 | Time         | Session | Speaker/s |
 | ------------------ | ----------------- | ------------------------ |
-|<img width=175/>|<img width=425/>|<img width=300/>|
+|<img width=200/>|<img width=425/>|<img width=300/>|
 | 4.15 - 4.20 pm | Welcome (Opening) | Sanka Rasnayaka |
 | 4.20 - 5.00 pm| Machine Learning Risk Management Frameworks | Adrian Baldwin |
 | 5.00 - 5.40 pm | Trustworthy ML for Healthcare | Gilbert Lim |
