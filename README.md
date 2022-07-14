@@ -80,7 +80,7 @@ All times are in the Indian Standard Time zone (GMT +5:30 hours). \
 |<img width=200/>|<img width=425/>|<img width=300/>|
 | 4.15 - 4.20 pm | Welcome (Opening) | Sanka Rasnayaka |
 | 4.20 - 5.00 pm| Machine Learning Risk Management Frameworks | Adrian Baldwin |
-| 5.00 - 5.40 pm | Trustworthy ML for Healthcare | Gilbert Lim |
+| 5.00 - 5.40 pm | Dimensions of Trust in Machine Learning for Healthcare | Gilbert Lim |
 | 5.40 - 6.00 pm | Explainable AI for Smart City Applications |  Sandareka Wickramanayake |
 | 6.00 - 6.10 pm | Break | - |
 | 6.10 - 6.50 pm | Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | Jay Nandy |
